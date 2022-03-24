@@ -11,7 +11,7 @@ The bolt pattern describes how many bolts or lug nuts that are used for fitting 
 
 For example
 
-[5x114.3 bolt pattern](https://sizemywheels.com/lz-pcd/5-114.3 "5x114.3 bolt pattern")
-[5x120 bolt pattern](https://sizemywheels.com/lz-pcd/5-120 "5x120 bolt pattern")
+- [5x114.3 bolt pattern](https://sizemywheels.com/lz-pcd/5-114.3 "5x114.3 bolt pattern")
+- [5x120 bolt pattern](https://sizemywheels.com/lz-pcd/5-120 "5x120 bolt pattern")
 
 
